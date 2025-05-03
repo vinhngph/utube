@@ -1,1 +1,1 @@
-export const API = "http://localhost:8080";
+export const API = "https://utube-api.nguyenphucvinh.io.vn";
